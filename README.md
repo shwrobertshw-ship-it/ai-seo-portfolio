@@ -1,12 +1,10 @@
-# AI SEO 個人求職頁
+# 宋 Rob｜AI SEO Portfolio
 
-這是 AI SEO 策略與內容系統方向的個人一頁式求職網站，部署目標為 GitHub Pages。
+這是一頁式個人求職網站草稿，內容依目前提供的履歷資料建立：門號業務、租賃汽車、大樓／工廠管理，以及團隊管理、業績、客戶開發與勞資相關經驗。
 
-## 上線前需要替換
+## 發布前待確認
 
-- `index.html` 中的「你的名字」、Email、LinkedIn、GitHub 帳號與網站 canonical URL。
-- 若需要，補上真實案例、成果數據與履歷下載連結。
-
-## 本地預覽
-
-直接用瀏覽器開啟 `index.html` 即可預覽；此頁面不依賴建置工具。
+- GitHub 帳號是否為 `shwrobertshw-ship-it`
+- 要備份與發布的 GitHub repo URL
+- Email、電話或其他公開聯絡方式
+- 大樓／工廠管理工作的正式職稱與公司名稱（若願意公開）
